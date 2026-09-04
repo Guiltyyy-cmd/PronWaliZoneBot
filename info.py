@@ -14,7 +14,7 @@ def str_to_bool(val, default=False):
 # =========================================================
 API_ID = int(environ.get("API_ID", "31761013"))
 API_HASH = environ.get("API_HASH", "3d55d62014467b2a922c6c0d6d95deae")
-BOT_TOKEN = environ.get("BOT_TOKEN", "8875734725:AAFWujhaZqNQLKLw0sWm54LKeRcoLj8WcGU")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8875734725:AAHQgVc-LEWp4IxCSLLvXwlWjWmfJFDgcNQ")
 PORT = int(environ.get("PORT", "8080"))
 TIMEZONE = environ.get("TIMEZONE", "Asia/Kolkata")
 OWNER_USERNAME = environ.get("OWNER_USERNAME", "BlurpleOg")
